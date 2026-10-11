@@ -24,7 +24,7 @@
     "percentToQualify": 100,
 "secret_way_start": 64,
 "secret_way_end": 100,
-"description": "Release right after your icon touches the lower part of the cube portal at 64% to avoid clicking the orb and therefore making you fall out of the level at 65% after the saws. Free to the end from there.", 
+"description": "Release right after your icon touches the lower part of the cube portal  at 64% to avoid clicking the orb and therefore making you fall out of the level at 65% after the saws. Free to the end from there.", 
 "difficulty": "extreme",
 "secret_way_at": 64,
 "password": "Password Required",
